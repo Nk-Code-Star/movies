@@ -1,0 +1,17 @@
+h1{
+    font-weight:bold;
+    color:blueviolet;
+}
+
+h2{
+    color:cadetblue;
+}
+
+h3{
+    color:brown;
+    font-family:'Courier New', Courier, monospace;
+}
+*{
+    text-align-last: center;
+    alignment-baseline: center;
+}
